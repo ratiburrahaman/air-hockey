@@ -89,17 +89,17 @@
         {
           "type": "audio",
           "key": "goal",
-          "url": "./assets/sounds/goal.ogg"
+          "url": ["./assets/sounds/goal.ogg", "./assets/sounds/goal.mp3"]
         },
         {
           "type": "audio",
           "key": "puck-edge",
-          "url": "./assets/sounds/puck-edge.ogg"
+          "url": ["./assets/sounds/puck-edge.ogg", "./assets/sounds/puck-edge.mp3"]
         },
         {
           "type": "audio",
           "key": "puck-paddle",
-          "url": "./assets/sounds/puck-paddle.ogg"
+          "url": ["./assets/sounds/puck-paddle.ogg", "./assets/sounds/puck-paddle.mp3"]
         }
         
         
