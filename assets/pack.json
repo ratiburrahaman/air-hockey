@@ -1,0 +1,108 @@
+{
+    "preload": {
+      "files": [   
+        {
+          "type": "image",
+          "key": "arena-edge",
+          "url": "./assets/sprites/arena-edge.png"
+        },
+        {
+          "type": "image",
+          "key": "arena",
+          "url": "./assets/sprites/arena.png"
+        },
+        {
+          "type": "image",
+          "key": "boundary",
+          "url": "./assets/sprites/platform.png"
+        },
+        {
+          "type": "image",
+          "key": "puck",
+          "url": "./assets/sprites/puck.png"
+        },
+        {
+          "type": "image",
+          "key": "score-bg",
+          "url": "./assets/sprites/score-bg.png"
+        },
+        {
+          "type": "image",
+          "key": "menu-title",
+          "url": "./assets/sprites/menu-title.png"
+        },
+        {
+          "type": "image",
+          "key": "button-big",
+          "url": "./assets/sprites/button-big.png"
+        },
+        {
+          "type": "image",
+          "key": "play-ico",
+          "url": "./assets/sprites/play-ico.png"
+        },
+        {
+          "type": "image",
+          "key": "bg-pop-up",
+          "url": "./assets/sprites/bg-pop-up.png"
+        },
+        {
+          "type": "image",
+          "key": "header-bg",
+          "url": "./assets/sprites/heade-bg.png"
+        },
+        {
+          "type": "image",
+          "key": "ico-bgm",
+          "url": "./assets/sprites/ico-bgm.png"
+        },
+        {
+          "type": "image",
+          "key": "ico-sfx",
+          "url": "./assets/sprites/ico-sfx.png"
+        },
+        {
+          "type": "image",
+          "key": "button-restart",
+          "url": "./assets/sprites/button-restart.png"
+        },
+        {
+          "type": "image",
+          "key": "button-resume",
+          "url": "./assets/sprites/button-resume.png"
+        },
+        {
+          "type": "image",
+          "key": "button-home",
+          "url": "./assets/sprites/button-home.png"
+        },
+        {
+          "type": "image",
+          "key": "button-pause",
+          "url": "./assets/sprites/button-pause.png"
+        },
+        {
+          "type": "audio",
+          "key": "bgm",
+          "url": "./assets/sounds/bgm.mp3"
+        },
+        {
+          "type": "audio",
+          "key": "goal",
+          "url": "./assets/sounds/goal.ogg"
+        },
+        {
+          "type": "audio",
+          "key": "puck-edge",
+          "url": "./assets/sounds/puck-edge.ogg"
+        },
+        {
+          "type": "audio",
+          "key": "puck-paddle",
+          "url": "./assets/sounds/puck-paddle.ogg"
+        }
+        
+        
+      ]
+    }
+}
